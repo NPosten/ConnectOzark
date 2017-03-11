@@ -1,0 +1,132 @@
+/* custom css for ConnectOzark site */
+
+body{
+    padding: 5px;
+    background-color: black;
+    background-image: url(road-background.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+div.main 
+    background-color; rgba(255, 244, 244, 0.6);
+}
+
+figcaption {
+    color: dimgray;
+}
+
+.container div.well {
+    padding: 30px;
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.btn.btn-info {
+    background-color: coral;
+}
+
+span.bullet{
+    margin-right: 10px;
+}
+/* Header Styles */
+
+.navbar {
+    background-color: #2D7A36;
+    
+}
+
+.navbar-header a.navbar-brand {
+    color: #FFF0D6;
+    
+}
+
+.navbar-header a.navbar-brand:hover {
+    color: #D5CDFF;
+    
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: #FFF0D6;
+}
+
+.nav.navbar-nav.navbar-right li a:hover {
+    color: #D5CDFF;
+}
+
+.nav .dropdown-menu {
+    background-color: #2D7A36;
+}
+
+/* Footer Styles */
+
+.footer {
+    background-color: #2D7A36;
+    margin-top: 20px;
+}
+
+.footer h5 {
+    color: #FFF0D6;
+}
+
+/* Image Styles */
+
+.img-fullsize {
+    max-width: 100%;
+    max-height: 100%
+}
+
+.headerimg {
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+a.social-media {
+    color: black;
+}
+
+.footer a {
+    color: black;
+}
+
+.footer i {
+    padding-right: 5px; 
+}
+
+.footer .glyphicon {
+    padding-right: 5px;
+}
+
+
+/* Heading Styles */
+
+h1 {
+    color: #2D7A36;
+}
+
+h2 {
+    color: #379943;
+}
+
+.jumbo-heading {
+    text-align: center;
+    padding-bottom: 5px;
+   
+}
+
+/* Jumbotron Styles */
+
+.jumbotron {
+    background-color: #FFF0D6;
+    padding: 10px;
+}
+
+.jumbotron .glyphicon {
+    margin-right: 5px;
+}
+
+.jumbo-list {
+    margin: auto;
+}
